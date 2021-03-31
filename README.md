@@ -1,3 +1,4 @@
-# Projeto Instagram
+# 🖥️ Projeto Instagram 🌎
 
-Desenvolvimento do projeto em HTML e CSS.
+ Desenvolvimento do projeto em HTML e CSS. 
+
